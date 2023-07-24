@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/CompilerZftatttt/CompilerZftatttt/Compiler/Compiler/src/compiler/ForStatementSyntax.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/CompilerZftatttt/CompilerZftatttt/Compiler/Compiler/src/compiler/Evaluator.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/CompilerZftatttt/CompilerZftatttt/Compiler/Compiler/src/compiler/SyntaxToken.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/CompilerZftatttt/CompilerZftatttt/Compiler/Compiler/src/compiler/BinaryExpressionSyntax.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/CompilerZftatttt/CompilerZftatttt/Compiler/Compiler/src/compiler/AssignmentExpressionSyntax.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/CompilerZftatttt/CompilerZftatttt/Compiler/Compiler/src/compiler/IfStatemnetSyntax.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/CompilerZftatttt/CompilerZftatttt/Compiler/Compiler/src/compiler/CondSyntax.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/CompilerZftatttt/CompilerZftatttt/Compiler/Compiler/src/compiler/Lexer.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/CompilerZftatttt/CompilerZftatttt/Compiler/Compiler/src/compiler/Parser.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/CompilerZftatttt/CompilerZftatttt/Compiler/Compiler/src/compiler/IdentifierExpression.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/CompilerZftatttt/CompilerZftatttt/Compiler/Compiler/src/compiler/SyntaxKind.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/CompilerZftatttt/CompilerZftatttt/Compiler/Compiler/src/compiler/SyntaxNode.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/CompilerZftatttt/CompilerZftatttt/Compiler/Compiler/src/compiler/SyntaxTree.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/CompilerZftatttt/CompilerZftatttt/Compiler/Compiler/src/compiler/Compiler.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/CompilerZftatttt/CompilerZftatttt/Compiler/Compiler/src/compiler/NameExpressionSyntax.java</file>
+        </group>
+    </open-files>
+</project-private>
